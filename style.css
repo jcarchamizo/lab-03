@@ -1,0 +1,37 @@
+p{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    /* text-align: center;     */
+    
+}
+
+.spaceAndBorder{
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid rgb(255, 0, 0);
+    border-radius: 30px;
+
+    width: 300px;
+    height: 200px;    
+}
+
+.patata{
+    color: rgb(250, 143, 19);
+}
+
+.customClass{
+    color: rgb(16, 149, 16);
+    font-size: 14px;    
+}
+
+
+
+.links{
+    color: rgb(16, 149, 16);
+    font-size: 14px;
+}
+
+#myLink{
+    color: blue;
+}
